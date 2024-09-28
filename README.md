@@ -55,7 +55,7 @@ Clone the repository:
 
 sh
 Copy code
-git clone https://github.com/yourusername/sales-prediction-model.git
+git clone https://github.com/subhashgovindharaj/sales_prediction_model.git
 cd sales-prediction-model
 Install the required dependencies:
 
